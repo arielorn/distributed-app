@@ -1,7 +1,7 @@
 version: 2.1
 
   orbs:
-    snyk: snyk/snyk@x.y.z
+    snyk: snyk/snyk@0.0.12
 
   jobs:
     build:
